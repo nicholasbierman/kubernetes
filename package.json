@@ -19,5 +19,6 @@
   "dependencies": {
     "jsonfile": "^6.1.0",
     "simple-git": "^2.35.2"
-  }
+  },
+  "devDependencies": {}
 }
